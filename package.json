@@ -5,6 +5,7 @@
   "main": "./lib/less-cache",
   "scripts": {
     "prepublish": "grunt clean lint coffee",
+    "postinstall": "grunt clean lint coffee",
     "test": "grunt test"
   },
   "repository": {
