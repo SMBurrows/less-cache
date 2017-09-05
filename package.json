@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "fs-plus": "^3.0.0",
-    "less": "^2.7.1",
+    "less": "https://github.com/SMBurrows/less.js.git#3.x",
     "underscore-plus": "1.x",
     "walkdir": "0.0.11"
   },
